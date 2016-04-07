@@ -1,4 +1,11 @@
-{
-	"courseName" : "Sweet and Short",
-	"rating" : "5-star"
-}
+[
+	{
+		"courseName" : "Sweet and Short",
+		"rating" : "5-star"
+	},
+
+	{
+		"courseName" : "Grunt",
+		"rating" : "1-star"
+	}
+]
